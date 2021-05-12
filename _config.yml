@@ -27,7 +27,7 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
   self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cygao.photo/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://talk.cygao.top/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Gabriel08005458
 github_username: GGGGeorge-gao
 instagram_username: maxvoltar
