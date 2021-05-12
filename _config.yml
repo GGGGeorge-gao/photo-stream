@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: cygao.photo
+title: GabrielのPhotograph
 email: cygao0828@foxmail.com
 author:
-  name: Tim Van Damme
+  name: cygao
   email: cygao0828@foxmail.com
-  website: https://maxvoltar.com
+  website: http://talk.cygao.top
 description: >- # this means to ignore newlines until "baseurl:"
   self-hosted photo stream.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cygao.photo/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Gabriel
+twitter_username: Gabriel08005458
 github_username: GGGGeorge-gao
 instagram_username: maxvoltar
 
