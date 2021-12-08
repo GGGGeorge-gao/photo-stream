@@ -22,5 +22,14 @@
 		{% if page.image_slug %}
 			<script src="{{ '/js/photos.js' | relative_url }}" data-photo-id="{{ page.image_slug }}" data-photo-url="{{ page.image_slug | relative_url }}" data-target-id="{{ target }}"></script>
 		{% endif %}
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q405WN69PY"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-Q405WN69PY');
+</script>
 </body>
 </html>
